@@ -2,12 +2,11 @@
 
 **`Software developer`**
 
-I'm a full-stack developer. I specialize in web and mobile applications, building responsive, user-friendly interfaces and scalable backends.
+Full-stack developer specializing in web and mobile applications — building responsive interfaces and scalable backends. I'm now shifting gears to dedicate more time to building my own product. Don't wait up, I'm coming.
 
 
 ---
 
-### 🧰 Languages and Tools
 ### 🧰 Tech Stack
 #### 🚀 Core
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,26 +31,15 @@ I'm a full-stack developer. I specialize in web and mobile applications, buildin
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-
-#
-<!--#
-// need to host my out stats
+---
 
 ### 📊 Stats
+![Emannnx's GitHub stats](https://github-readme-stats.vercel.app/api?username=emannnx&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=emannnx&theme=gruvbox&border_radius=4.5)
 
-![Emannx's GitHub stats](https://github-readme-stats.vercel.app/api?username=emannnx&show_icons=true&theme=gruvbox)-->
+---
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=emannnx&theme=gruvbox&border_radius=4.5) -->
-
-#
-<!--
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   A full-stack developer specializing in modern web and mobile applications. Skilled in JavaScript, TypeScript, React, React Native, Vue.js, Node.js, Express, and MongoDB. Experienced in building responsive, user-friendly interfaces and scalable backends, with hands-on knowledge of DevOps tools like Docker, Kubernetes, and Cloudflare. Passionate about creating end-to-end solutions that seamlessly integrate frontend and backend while optimizing for performance and maintainability. I’m now implementing measures to dedicate more time to building my own product a dream I’m ready to pursue. Don’t wait up, because I’m coming.
--->
-
-### Let's connect
+### 📬 Let's Connect
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://imanolabodebelloportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iman-olabode-bello/)
 

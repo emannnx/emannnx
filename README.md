@@ -2,7 +2,7 @@
 
 **`Software developer`**
 
-I'm a full-stack developer, Linux distro hopper, and content creator. I specialize in web and mobile applications, building responsive, user-friendly interfaces and scalable backends.
+I'm a full-stack developer. I specialize in web and mobile applications, building responsive, user-friendly interfaces and scalable backends.
 
 
 ---

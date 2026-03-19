@@ -52,6 +52,6 @@ I'm a software engineer, Linux distro hopper, Java apologist, and content creato
 -->
 
 ### Let's connect
-[website]: https://imanolabodebelloportfolio.vercel.app/
-[ Linkedln]: https://www.linkedin.com/in/iman-olabode-bello/
-# emannnx
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://imanolabodebelloportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iman-olabode-bello/)
+

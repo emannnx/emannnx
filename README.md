@@ -2,7 +2,7 @@
 
 **`Software developer`**
 
-I'm a software engineer, Linux distro hopper, Java apologist, and content creator at [emannnx].
+I'm a full-stack developer, Linux distro hopper, and content creator. I specialize in web and mobile applications, building responsive, user-friendly interfaces and scalable backends.
 
 
 ---

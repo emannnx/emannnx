@@ -1,4 +1,4 @@
-# 🏄‍♂️ Emannnx
+# 🏄‍♂️ Emannx
 
 **`Software developer`**
 

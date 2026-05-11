@@ -1,9 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/material-symbols/terminal-rounded.svg?color=white">
-  <img src="https://api.iconify.design/material-symbols/terminal-rounded.svg?color=%23333333" width="52" height="52" alt=""/>
-</picture>
-
-# Emannx
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/material-symbols/terminal-rounded.svg?color=white">
+    <img src="https://api.iconify.design/material-symbols/terminal-rounded.svg?color=%23333333" width="52" height="52" alt="" style="vertical-align:middle;margin-right:12px"/>
+  </picture>
+  <span style="font-size:42px;font-weight:800;vertical-align:middle;">Emannx</span>
+</div>
 
 **`Software developer`**
 
@@ -44,12 +45,14 @@ Full-stack developer specializing in web and mobile applications — building re
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/material-symbols/analytics-rounded.svg?color=white"><img src="https://api.iconify.design/material-symbols/analytics-rounded.svg?color=%23666666" width="20" height="20" alt=""/></picture> Stats
 
+<div align="left">
 ![Emannnx's GitHub stats](https://github-readme-stats.vercel.app/api?username=emannnx&show_icons=true&theme=gruvbox)
 ![GitHub Streak](https://streak-stats.demolab.com?user=emannnx&theme=gruvbox&border_radius=4.5)
+</div>
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/material-symbols/forum-rounded.svg?color=white"><img src="https://api.iconify.design/material-symbols/forum-rounded.svg?color=%23666666" width="20" height="20" alt=""/></picture> Let's Connect
+### 📬 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://imanolabodebelloportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iman-olabode-bello/)

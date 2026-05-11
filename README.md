@@ -39,7 +39,8 @@ Full-stack developer specializing in web and mobile applications — building re
 
 ### 📊 Stats
 
-![Emannnx's GitHub stats](https://github-readme-stats.vercel.app/api?username=emannnx&show_icons=true&theme=gruvbox)
+<!-- ![Emannnx's GitHub stats](https://github-readme-stats.vercel.app/api?username=emannnx&show_icons=true&theme=gruvbox) -->
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=emannnx&theme=gruvbox&border_radius=4.5)
 
 ---

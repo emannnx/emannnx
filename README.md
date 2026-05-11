@@ -1,81 +1,50 @@
-<!-- Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Syne:wght@800&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+# 🏄‍♂️ Emannx
 
-<div align="center">
+**`Software developer`**
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td>
-
-<div style="background:#080808;padding:40px 36px;border-radius:12px;border:1px solid #1a1a1a;font-family:'DM Mono',monospace;">
-
-<p style="font-family:'Syne',sans-serif;font-size:42px;font-weight:800;color:#e8e4dc;margin:0 0 4px;letter-spacing:-0.02em;">Emannx</p>
-<p style="color:#555;font-size:12px;font-family:'DM Mono',monospace;margin:0 0 20px;letter-spacing:0.08em;">// software developer</p>
-
-<p style="color:#666;font-size:13px;line-height:1.75;border-left:2px solid #1a1a1a;padding-left:14px;margin:0 0 28px;max-width:520px;">
 Full-stack developer specializing in web and mobile applications — building responsive interfaces and scalable backends. I'm now shifting gears to dedicate more time to building my own product. Don't wait up, I'm coming.
-</p>
-
-<p style="font-size:10px;color:#444;letter-spacing:0.12em;text-transform:uppercase;margin:0 0 8px;">connect</p>
-
-[![Portfolio](https://img.shields.io/badge/portfolio-111111?style=flat-square&logoColor=e8e4dc&logo=vercel)](https://imanolabodebelloportfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-111111?style=flat-square&logoColor=0A66C2&logo=linkedin)](https://www.linkedin.com/in/iman-olabode-bello/)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
-<p style="font-size:10px;letter-spacing:0.12em;text-transform:uppercase;color:#555;font-family:'DM Mono',monospace;">CORE</p>
+### 🧰 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-080808?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-080808?style=flat-square&logo=typescript&logoColor=007ACC)
-![React](https://img.shields.io/badge/React-080808?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-080808?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-080808?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-080808?style=flat-square&logo=node.js&logoColor=339933)
+#### 🚀 Core
 
-<p style="font-size:10px;letter-spacing:0.12em;text-transform:uppercase;color:#555;font-family:'DM Mono',monospace;">BACKEND & DATA</p>
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Express.js](https://img.shields.io/badge/Express.js-080808?style=flat-square&logo=express&logoColor=aaaaaa)
-![MongoDB](https://img.shields.io/badge/MongoDB-080808?style=flat-square&logo=mongodb&logoColor=47A248)
-![Java](https://img.shields.io/badge/Java-080808?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Spring](https://img.shields.io/badge/Spring-080808?style=flat-square&logo=spring&logoColor=6DB33F)
+#### ⚙️ Backend & Database
 
-<p style="font-size:10px;letter-spacing:0.12em;text-transform:uppercase;color:#555;font-family:'DM Mono',monospace;">DEVOPS & TOOLS</p>
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-080808?style=flat-square&logo=docker&logoColor=0db7ed)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-080808?style=flat-square&logo=kubernetes&logoColor=326ce5)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-080808?style=flat-square&logo=cloudflare&logoColor=F38020)
-![Linux](https://img.shields.io/badge/Linux-080808?style=flat-square&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-080808?style=flat-square&logo=git&logoColor=F05033)
+#### ☁️ DevOps & Deployment
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+#### 🛠️ Tools & Environment
+
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 📊 Stats
 
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=emannnx&show_icons=true&bg_color=0d0d0d&title_color=e8e4dc&text_color=666666&icon_color=e8e4dc&border_color=1a1a1a&count_private=true&rank_icon=github&hide_border=false" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emannnx&layout=compact&bg_color=0d0d0d&title_color=e8e4dc&text_color=666666&border_color=1a1a1a&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=emannnx&background=0d0d0d&stroke=1a1a1a&ring=e8e4dc&fire=e8e4dc&currStreakLabel=e8e4dc&sideLabels=666666&dates=444444&border=1a1a1a" />
-
-</div>
+![Emannnx's GitHub stats](https://github-readme-stats.vercel.app/api?username=emannnx&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=emannnx&theme=gruvbox&border_radius=4.5)
 
 ---
 
-<div align="center">
+### 📬 Let's Connect
 
-<sub style="font-family:'DM Mono',monospace;color:#444;">`Thanks for stopping by.`</sub>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://imanolabodebelloportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iman-olabode-bello/)
